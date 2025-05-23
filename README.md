@@ -27,7 +27,7 @@ The Adaptive Math Practice Application is a desktop tool built with Python and T
 
 * **Login & Registration Window:**
     * `[Link to Screenshot of Login Window]`
-    * `[Link to Screenshot of Registration Window with Invitation Code]`
+    
 * **Practice Set Selection:**
     * `[Link to Screenshot of Folder and Method Selection]`
 * **Main Practice Window:**
@@ -36,8 +36,7 @@ The Adaptive Math Practice Application is a desktop tool built with Python and T
     * `[Link to Screenshot of Progress Table]`
 * **Solution Review Window:**
     * `[Link to Screenshot of Reviewed Question with AI Explanation and Rendered LaTeX]`
-* **(Optional) GIF Demo:**
-    * `[Link to GIF showing the main workflow]`
+
 
 ## 🛠️ Technology Stack
 
