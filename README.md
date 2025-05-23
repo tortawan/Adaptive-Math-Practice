@@ -63,7 +63,7 @@ The Adaptive Math Practice Application is a desktop tool built with Python and T
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [your-repository-url]
+    git clone (https://github.com/tortawan/JobSearch/tree/main/Adaptive_Math_Practice)
     cd Adaptive_Math_Practice # Or your project's root folder name
     ```
 
