@@ -23,7 +23,7 @@ The Adaptive Math Practice Application is a desktop tool built with Python and T
 
 ## 🖼️ Sneak Peek (Screenshots/GIF)
 
-**(Highly Recommended: Add your screenshots and/or a GIF here!)**
+
 
 * **Login & Registration Window:**
     * <img src="/images/Adaptive_Math_Main.png" alt="Alt text for your image" width="400"/>
