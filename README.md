@@ -26,16 +26,16 @@ The Adaptive Math Practice Application is a desktop tool built with Python and T
 **(Highly Recommended: Add your screenshots and/or a GIF here!)**
 
 * **Login & Registration Window:**
-    * !<img src="/images/Adaptive_Math_Main.png" alt="Alt text for your image" width="400"/>
+    * <img src="/images/Adaptive_Math_Main.png" alt="Alt text for your image" width="400"/>
     
 * **Practice Set Selection:**
-    * !<img src="/images/Adaptive_Math_Method.png" alt="Alt text for your image" width="400"/>
+    * <img src="/images/Adaptive_Math_Method.png" alt="Alt text for your image" width="400"/>
 * **Main Practice Window:**
-    * !<img src="/images/Adaptive_Math_Problem.png" alt="Alt text for your image" width="500"/>
+    * <img src="/images/Adaptive_Math_Problem.png" alt="Alt text for your image" width="500"/>
 * **Progress Review Table:**
-    * !<img src="/images/Adaptive_Math_Progress.png" alt="Alt text for your image" width="500"/>
+    * <img src="/images/Adaptive_Math_Progress.png" alt="Alt text for your image" width="500"/>
 * **Solution Review Window:**
-    * !<img src="/images/Adaptive_Math_AI_respond.png" alt="Alt text for your image" width="500"/>
+    * <img src="/images/Adaptive_Math_AI_respond.png" alt="Alt text for your image" width="500"/>
 
 
 ## 🛠️ Technology Stack
