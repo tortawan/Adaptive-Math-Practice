@@ -1,0 +1,128 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are written by a script go in a specific directory out of your main project,
+# but if they somehow end up in your source tree, this will ignore them
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+pytestdebug.log
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# KDevelop 4 project settings
+*.kdev4
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.project
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example  # If you have an example .env file, don't ignore it
+
+# SQLite Database files
+*.db
+*.db-journal
+# If you want to share a *template* or *empty* database,
+# you can explicitly add it back with !your_template_database_name.db
+# For example, if your default app_database.db is meant to be empty and part of the repo:
+# !app_database.db
+
+# Application specific logs (if you create any)
+*.log
+app.log
+
+# Downloaded LaTeX images (if you cache them locally, though your current setup doesn't seem to)
+# latex_images_cache/ 
